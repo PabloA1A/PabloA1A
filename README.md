@@ -18,8 +18,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/PabloA1A"></a></p><br>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
     
   [![GitHub Streak](https://streak-stats.demolab.com?user=PabloA1A&theme=blue-green)](https://git.io/streak-stats)
 
