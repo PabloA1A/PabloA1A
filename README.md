@@ -1,4 +1,4 @@
-<div align="center"><img src="[https://giphy.com/embed/UDclWKlmfmq7twI3iJ (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t6eWg3bnR0eGloNjZmMnlkaGlpZGtyZWl3c3d6c21xNnljeWU2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif)" width="200"></div>
+<div align="center" src="[https://giphy.com/embed/UDclWKlmfmq7twI3iJ (https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t6eWg3bnR0eGloNjZmMnlkaGlpZGtyZWl3c3d6c21xNnljeWU2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif)" width="200"></div>
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h2 align="center">I am a programming enthusiast from Asturias, Spain. I am currently in a full Stack course at F5 factory.</h2>
 
@@ -18,11 +18,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/PabloA1A"></a></p><br>
-  <div align="left">
-  <p><img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)" alt="PabloA1A" /></p><br>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
     
-  <p><img src="[![GitHub Streak](https://streak-stats.demolab.com?user=PabloA1A&theme=blue-green)](https://git.io/streak-stats)" alt="PabloA1A" /></p><br>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=PabloA1A&theme=blue-green)](https://git.io/streak-stats)
 
-  <p><img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" alt="PabloA1A" /></p><br>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
-  <p><img src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)" alt="PabloA1A" /></p></div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
