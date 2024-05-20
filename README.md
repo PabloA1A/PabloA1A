@@ -21,6 +21,6 @@
     
   [![GitHub Streak](https://streak-stats.demolab.com?user=PabloA1A&theme=blue-green)](https://git.io/streak-stats)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloA1A&show_icons=true&theme=radical)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloA1A&layout=compact)
