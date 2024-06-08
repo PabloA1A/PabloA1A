@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pablo</h1>
 <h2 align="center">I am a programming enthusiast from Asturias, Spain. I am currently in a full Stack course at F5 factory.</h2>
 
-- 🌱 I’m currently learning **html, css, node, sass, bootstrap, javascript, Test Driven Development (TDD) Unit test (Vitest), figma, jira, draw, SCRUM.**
+- 🌱 I’m currently learning **html, css, node, sass, bootstrap, javascript, Vue, Vite, Test Driven Development (TDD) Unit test (Vitest), figma, jira, draw, SCRUM.**
 
 - 👨‍💻 All of my projects are available at [github.](github.)
 
