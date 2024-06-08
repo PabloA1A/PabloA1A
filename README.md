@@ -24,3 +24,5 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloA1A&show_icons=true&theme=radical)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloA1A&layout=pie)](https://github.com/PabloA1A/github-readme-stats)
+
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=PabloA1A)](https://github.com/PabloA1A/github-readme-stats)
