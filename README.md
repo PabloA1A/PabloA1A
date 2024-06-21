@@ -1,6 +1,6 @@
-<div align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2t6eWg3bnR0eGloNjZmMnlkaGlpZGtyZWl3c3d6c21xNnljeWU2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif" width="200"/></div>
-<h1 align="center">Hi 👋, I'm Pablo</h1>
-<h2 align="center">I am a programming enthusiast from Asturias, Spain. I am currently in a full Stack course at F5 factory.</h2>
+![github-header-image](https://github.com/PabloA1A/PabloA1A/assets/166805657/1140336f-d8b6-4058-afad-74c135dc6016)
+
+<h3 align="center">I am a programming enthusiast from Asturias, Spain. I am currently in a full Stack course in F5 factory (850h)</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning html, css, javascript, node, sass, bootstrap, Vue, Vitest, Test Driven Development (TDD) Unit test (Vitest), figma, jira, draw, SCRUM.<br><br>👨‍💻 All of my projects are available at github.<br><br>📫 How to contact me LinkedIn which is in profile.
