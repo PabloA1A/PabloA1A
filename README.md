@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [github.](github.)
 
-- 📫 How to contact me **pablo_abadalvarez@hotmail.es or LinkedIn which is in profile.**
+- 📫 How to contact me LinkedIn which is in profile.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
