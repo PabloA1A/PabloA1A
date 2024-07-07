@@ -3,7 +3,7 @@
 <h3 align="center">I am a programming enthusiast from Asturias, Spain. I am currently in a full Stack course in F5 factory (850h)</h3>
 
 # 💫 About Me:
-🌱 I am currently learning on the:<br> Frontend side: html, css, javascript, node, sass, bootstrap, Vue, Vitest, Test Driven Development (TDD) Unit test (Vitest), figma, jira, draw, SCRUM.<br>Back-end side: java.<br><br>👨‍💻 All of my projects are available at github.<br><br>📫 How to contact me LinkedIn which is in profile, there I have my email address.
+🌱 I am currently learning on the:<br><br> Frontend side: html, css, javascript, node, sass, bootstrap, Vue, Vitest, Test Driven Development (TDD) Unit test (Vitest), figma, jira, draw, SCRUM.<br><br>Back-end side: java.<br><br>👨‍💻 All of my projects are available at github.<br><br>📫 How to contact me LinkedIn which is in profile, there I have my email address.
 
 
 ## 🌐 Socials:
