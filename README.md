@@ -1,4 +1,4 @@
-![github-header-image](https://github.com/PabloA1A/PabloA1A/assets/166805657/1140336f-d8b6-4058-afad-74c135dc6016)
+![github-header-image](https://github.com/user-attachments/assets/94fead05-6152-425a-9548-0af448f8a51f)
 
 <h3 align="center">Soy un amante de la programación de Asturias, España. Actualmente estoy en un curso full Stack en factoría F5 (850h)</h3>
 
