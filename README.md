@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/94fead05-6152-425a-9548-0af448f8a51f)
 
-<h3 align="center">Soy un amante de la programación de Asturias, España. Actualmente estoy en un curso full Stack en factoría F5 (850h)</h3>
+<h3 align="center">Soy un amante de la programación, de Asturias, España. Actualmente estoy en un curso full Stack en factoría F5 (850h)</h3>
 
 # 💫 Sobre mí:
 🌱 Frontend: html, css, javascript, node, sass, bootstrap, Vue, React, Test Driven Development (TDD) Unit test (Vitest), axios, figma, jira, draw, SCRUM.<br><br>Backend: java, spring boot, TEST (junit, hamcrest, mockito), MySQL.<br><br>👨‍💻 Todos mis proyectos están disponibles en github.<br><br>📫 Cómo ponerse en contacto conmigo a través de LinkedIn que está en el perfil, allí tengo mi dirección de correo electrónico.
