@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/user-attachments/assets/94fead05-6152-425a-9548-0af448f8a51f)
 
-<h3 align="center">Soy un amante de la programación, de Asturias, España. Actualmente estoy en un curso full Stack en factoría F5 (850h)</h3>
+<h3 align="center">Soy un amante de la programación, de Asturias, España.</h3>
 
 # 💫 Sobre mí:<br><br>
 - Soy una persona que siempre busca su mejor versión.<br>- Me gustan los deportes al aire libre.<br>- Me gusta la adrenalina, con ello las incidencias técnicas, la búsqueda de las mejores soluciones, el cumplir plazos, etc, no sería un inconveniente para mí.<br>- Interés por constante evolución y búsqueda de mejorar siempre en mi puesto de forma que impacte positivamente en la empresa.<br>- Implementación de nuevos procedimientos y procesos mas eficientes, ahorrando tiempos y costes.<br>- Búsqueda de la mejor solución a los problemas.<br>- Poder liderar equipos.<br>- Ascenso e incremento progresivo de responsabilidades.<br>- Simulacros a posibles escenas para estar siempre preparado a lo que pueda venir en un futuro.<br>- Contribución con un hito importante en una etapa nueva y relevante a nivel mundial como lo fue el Covid. Estos logros los pueden ver en el apartado Destacados y Experiencia, dentro de la empresa Transinsa donde estuve trabajando casi 16 años.<br>- Estoy en un cambio a nivel profesional. Este campo de la programación me encanta y se me pasa el tiempo volando al estar tan enfocado en los proyectos, siempre buscando la mejor forma de poder desarrollarlos.<br><br>
